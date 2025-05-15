@@ -1,4 +1,4 @@
-# AHFF-Net_for_Semantic_Segmentation_of_Crops_and_Weeds
+# Proposed_AHFF-Net
 
 These are the publically available datasets:
 1.	Sugar Beets (BoniRob Dataset): https://www.ipb.uni-bonn.de/data/sugarbeets2016/
